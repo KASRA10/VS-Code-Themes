@@ -3,6 +3,26 @@
   "displayName": "K10's Themes",
   "description": "In The Heart Of Colors!!! For Developers And Designers",
   "version": "0.0.1",
+  "publisher": "KasraK10",
+  "icon": "kasra-hosseini-k10-theme-logo.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KASRA10/VS-Code-Themes.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "vscode theme",
+    "kasra10",
+    "k10",
+    "k10-theme",
+    "skin",
+    "dark",
+    "light",
+    "colorful",
+    "soft"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -14,7 +34,7 @@
       {
         "label": "K10's Themes",
         "uiTheme": "vs",
-        "path": "./themes/K10's Themes-color-theme.json"
+        "path": "./themes/K10's Themes-light.json"
       }
     ]
   }
