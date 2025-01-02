@@ -1,0 +1,21 @@
+{
+  "name": "k10-themes",
+  "displayName": "K10's Themes",
+  "description": "In The Heart Of Colors!!! For Developers And Designers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "K10's Themes",
+        "uiTheme": "vs",
+        "path": "./themes/K10's Themes-color-theme.json"
+      }
+    ]
+  }
+}
