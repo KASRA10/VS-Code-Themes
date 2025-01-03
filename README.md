@@ -11,7 +11,7 @@ I tried to use soft, attractive and distinct colors.
 In The Heart Of Colors!!! For Developers And Designers.
  
 # Dark Theme: 📸
-![kasra-hosseini=k10-theme-dark](https://github.com/user-attachments/assets/885d03d7-be03-4c84-bb38-bdc18f36bf9a)
+![kasra-hosseini=k10-theme-dark](https://github.com/user-attachments/assets/120d079b-8b7c-4e8c-96b0-41087ecc4564)
 
 # Light Theme: 📸
 ![kasra-hosseini=k10-theme-light](https://github.com/user-attachments/assets/ea751a1e-1c25-425a-9750-8614bd5aac3f)
