@@ -21,7 +21,10 @@
     "dark",
     "light",
     "colorful",
-    "soft"
+    "soft",
+    "night",
+    "darker",
+    "black"
   ],
   "engines": {
     "vscode": "^1.96.0"
@@ -40,6 +43,11 @@
         "label": "K10's Themes-Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/K10's Themes-dark.json"
+      },
+      {
+        "label": "K10's Themes-Heavy Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/K10's Themes-heavy-night.json"
       }
     ]
   }
