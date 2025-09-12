@@ -1,0 +1,54 @@
+{
+  "name": "k10-themes",
+  "displayName": "K10's Themes",
+  "description": "In The Heart Of Colors!!! For Developers And Designers",
+  "version": "0.2.2",
+  "publisher": "KasraK10",
+  "icon": "kasra-hosseini-k10-theme-logo.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KASRA10/VS-Code-Themes.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "vscode theme",
+    "kasra10",
+    "k10",
+    "k10-theme",
+    "skin",
+    "dark",
+    "light",
+    "colorful",
+    "soft",
+    "night",
+    "darker",
+    "black"
+  ],
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "K10's Themes-Light",
+        "uiTheme": "vs",
+        "path": "./themes/K10's Themes-light.json"
+      },
+      {
+        "label": "K10's Themes-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/K10's Themes-dark.json"
+      },
+      {
+        "label": "K10's Themes-Heavy Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/K10's Themes-heavy-night.json"
+      }
+    ]
+  }
+}
