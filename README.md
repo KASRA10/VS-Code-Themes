@@ -35,7 +35,7 @@ Bright and fresh, perfect for well-lit environments.
 ### 🌌 Heavy Night Theme
 
 A bold, deep-colored theme for late-night focus.  
-_(Preview coming soon — or replace with screenshot link if available)_
+<img width="1919" height="1034" alt="K10-Theme-Heavy-Night" src="https://github.com/user-attachments/assets/b4464f1f-33ab-4a5c-93ce-3a65f542a4bf" />
 
 ---
 
