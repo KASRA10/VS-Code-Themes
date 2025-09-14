@@ -1,5 +1,3 @@
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://marketplace.visualstudio.com/)
-
 # 🎨 K10's VS Code Themes
 
 A collection of clean, modern, and developer-friendly themes designed for **focus, readability, and style**.  
@@ -35,7 +33,8 @@ Bright and fresh, perfect for well-lit environments.
 ### 🌌 Heavy Night Theme
 
 A bold, deep-colored theme for late-night focus.  
-![K10 Heavy Night Theme](https://github.com/user-attachments/assets/7a2e4cf4-1e31-4766-b8a2-da1084b648d0)
+
+![K10 Heavy Night Theme](https://github.com/user-attachments/assets/a7420358-8516-49e9-8eb8-aa6ffb674917)
 
 ---
 
