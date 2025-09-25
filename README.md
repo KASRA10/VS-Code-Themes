@@ -34,7 +34,7 @@ Bright and fresh, perfect for well-lit environments.
 
 A bold, deep-colored theme for late-night focus.  
 
-![K10 Heavy Night Theme](https://github.com/user-attachments/assets/a7420358-8516-49e9-8eb8-aa6ffb674917)
+![K10 Heavy Night Theme](https://github.com/user-attachments/assets/e7899e0c-34c9-48e8-8937-cd4b84dfe3f9)
 
 ---
 
