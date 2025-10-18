@@ -32,7 +32,7 @@ Bright and fresh, perfect for well-lit environments.
 
 ### 🌌 Heavy Night Theme
 
-A bold, deep-colored theme for late-night focus.  
+A bold, deep-colored theme for late-night focus.
 
 ![K10 Heavy Night Theme](https://github.com/user-attachments/assets/e7899e0c-34c9-48e8-8937-cd4b84dfe3f9)
 
@@ -60,3 +60,7 @@ The goal was simple:
 
 If you like these themes, feel free to ⭐ the repo.  
 Suggestions, feedback, or contributions are always welcome!
+
+## ‼️ Specials
+
+In addition to 2 Special clean colorless themes!!!!
