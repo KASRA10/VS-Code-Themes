@@ -38,6 +38,13 @@ A bold, deep-colored theme for late-night focus.
 
 ---
 
+### 🧑‍💻 GrayMan (Gray Hat) Coder
+An All Gray and Be The Middle Man With Gray. Not Light, Not Dark!
+
+![K10 Gray Man Theme](https://github.com/user-attachments/assets/7b7d4663-1f63-40e1-b294-1c7159e65893)
+
+---
+
 ## 🚀 Installation
 
 1. Open **Visual Studio Code**
