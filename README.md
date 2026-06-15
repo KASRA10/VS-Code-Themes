@@ -18,14 +18,16 @@ Includes **Light, Dark, and Heavy Night** modes to fit every workflow and mood.
 
 ### 🌑 Dark Theme
 
-Elegant and comfortable for long coding sessions.  
+Elegant and comfortable for long coding sessions.
+
 ![K10 Dark Theme](https://github.com/user-attachments/assets/5a977ec8-4897-43ac-82d1-4a2e1561c1bb)
 
 ---
 
 ### ☀️ Light Theme
 
-Bright and fresh, perfect for well-lit environments.  
+Bright and fresh, perfect for well-lit environments.
+
 ![K10 Light Theme](https://github.com/user-attachments/assets/ea751a1e-1c25-425a-9750-8614bd5aac3f)
 
 ---
