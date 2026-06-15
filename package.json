@@ -40,7 +40,9 @@
     "terminal",
     "modern terminal",
     "new edge",
-    "dark terminal"
+    "dark terminal",
+    "Sharp",
+    "Sharp Colors"
   ],
   "engines": {
     "vscode": "^1.96.0"

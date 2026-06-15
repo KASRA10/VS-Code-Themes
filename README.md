@@ -39,6 +39,7 @@ A bold, deep-colored theme for late-night focus.
 ---
 
 ### 🧑‍💻 GrayMan (Gray Hat) Coder
+
 An All Gray and Be The Middle Man With Gray. Not Light, Not Dark!
 
 ![K10 Gray Man Theme](https://github.com/user-attachments/assets/7b7d4663-1f63-40e1-b294-1c7159e65893)
@@ -46,9 +47,11 @@ An All Gray and Be The Middle Man With Gray. Not Light, Not Dark!
 ---
 
 ### 📟 Terminal
+
 Dark Terminal With Sharp Colors And Mysterious
 
 ![K10 Terminal](https://github.com/user-attachments/assets/27f2809d-874f-4794-9490-f46a531775e8)
+
 ---
 
 ## 🚀 Installation
