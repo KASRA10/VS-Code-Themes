@@ -52,7 +52,8 @@ An All Gray and Be The Middle Man With Gray. Not Light, Not Dark!
 
 Dark Terminal With Sharp Colors And Mysterious
 
-![K10 Terminal](https://github.com/user-attachments/assets/115da01e-fe8a-4645-b7e4-c5785ec869a0))
+![K10 Terminal](https://github.com/user-attachments/assets/48420659-2cbe-493b-aa5d-431752acb19d)
+
 ---
 
 ## 🚀 Installation
