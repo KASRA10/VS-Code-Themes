@@ -56,6 +56,14 @@ Dark Terminal With Sharp Colors And Mysterious
 
 ---
 
+### 🌞 Sunny Days
+
+For Who Loves Sunny And War Days, Smooth Yellow For Yellow Lovers.
+
+![K10 Sunny Days](https://github.com/user-attachments/assets/cc3c4460-7908-4e85-a574-5aead8a3e582)
+
+---
+
 ## 🚀 Installation
 
 1. Open **Visual Studio Code**
