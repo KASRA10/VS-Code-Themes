@@ -1,4 +1,3 @@
-<img width="1911" height="1027" alt="K100HeavyNightUpdated" src="https://github.com/user-attachments/assets/16efab46-ab6f-40e9-91d1-6529298235e1" />
 # 🎨 K10's VS Code Themes
 
 A collection of clean, modern, and developer-friendly themes designed for **focus, readability, and style**.  
@@ -37,7 +36,7 @@ Bright and fresh, perfect for well-lit environments.
 
 A bold, deep-colored theme for late-night focus.
 
-![K10 Heavy Night Theme](https://github.com/user-attachments/assets/5262c6d2-e1b5-42a3-acb8-4f2415391a33)
+![K10 Heavy Night Theme](https://github.com/user-attachments/assets/9a1c1881-b2cd-4270-89ba-513b6639e112)
 
 ---
 
